@@ -1,4 +1,7 @@
 # Python-My-Journey-Into-the-Elegance-of-Variables
+
+https://drive.google.com/drive/folders/16eKpwz0GUlCDPr2vh6GRFwhhIo079smE?usp=sharing
+
 Code is not just instructions, it’s a voice. And with Python, I’ve found mine!
 
 When I first stepped into Python, I realized it wasn’t just another programming language, it was a way of thinking. Python feels alive. It speaks clearly, it flows naturally, and it allows me to express ideas with simplicity and power.  
